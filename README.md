@@ -17,7 +17,7 @@ The Power Coefficient (Cp) was monitored over 200 iterations to ensure convergen
 
 | Pressure Contour | Velocity Streamlines |
 | :---: | :---: |
-| ![Pressure](Post_Processing/pressure_contur1.png) | ![Velocity](Post_Processing/velocity_Streamline.png) |
+| ![Pressure](Post_Processing/pressure_contur1.png) | ![Velocity](Post_Processing/velocity_streamline.png) |
 
 ---
 
